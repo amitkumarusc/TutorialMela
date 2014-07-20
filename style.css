@@ -1,0 +1,18 @@
+
+#rounded-images div div a img{
+	border-radius: 100%;
+	max-height: 100px;
+	max-width: 100px;
+}
+.thumbnail{
+	border:none;
+}
+.info h2{
+	color: #D412A6;
+	font-weight: bold;
+	font-family: fantasy;
+}
+.info p{
+	color:#1B5B6A;
+	font-size: 20px;
+}
